@@ -13,5 +13,5 @@
  
  
  ## Initial look of the project:
- ![GUI image](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/1ed42cd0ec2496690393476d659a3520/asset-v1:UBCx+SoftConst2x+3T2017+type@asset+block/Final_Project_Starter_Screenshot.png)
+ ![GUI image](https://github.com/BirlaPrasoon/TwitterMapper/blob/master/Final_Project_Starter_Screenshot.png)
  
